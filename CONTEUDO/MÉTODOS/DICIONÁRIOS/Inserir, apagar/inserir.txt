@@ -1,0 +1,4 @@
+Para inserir uma chave/valor em um determinado dicionário basta fazer o seguinte:
+	
+	alien = {}
+	alien['cor'] = 'verde'

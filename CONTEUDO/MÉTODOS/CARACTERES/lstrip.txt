@@ -1,0 +1,3 @@
+lstrip() é capaz de remover espaços em branco do esquerdo da string
+
+EX: print(nome.lstrip())

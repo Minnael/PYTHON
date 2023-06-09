@@ -1,0 +1,3 @@
+title() exibe cada palavra com uma letra maiúscula no início. 
+
+EX: print(name.title())

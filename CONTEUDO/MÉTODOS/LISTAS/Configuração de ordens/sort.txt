@@ -1,0 +1,3 @@
+sort() é responsável por colocar uma determinada lista em ordem alfabética
+
+EX: nomes.sort()

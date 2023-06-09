@@ -1,0 +1,5 @@
+Para selecionar apenas as chaves em um laço for basta:
+
+	alien = {'posicao':25, 'cor':'verde', 'tamanho':30}
+	for chave in alien:
+    		print(chave)

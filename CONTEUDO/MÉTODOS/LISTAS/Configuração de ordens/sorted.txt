@@ -1,0 +1,7 @@
+sorted(lista) permite exibir sua lista em uma ordem em particular, mas não afeta propriamente dita a lista
+
+EX1: print(sorted(nomes))
+
+sorted(lista, reverse=True) faz com que a lista seja exibida em ordem alfabetica reversa
+
+EX2: print(sorted(nomes, reverse=True))

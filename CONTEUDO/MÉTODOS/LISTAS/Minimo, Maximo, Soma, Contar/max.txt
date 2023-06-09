@@ -1,0 +1,3 @@
+O metodo max() é responsável por selecionar o valor máximo de uma determinada lista de numeros.
+
+Ex: print(max(lista_numeros))

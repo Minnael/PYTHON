@@ -1,0 +1,3 @@
+del é reponsável por retirar um elemento da lista caso voce saiba a posição
+
+EX: del nomes[0]

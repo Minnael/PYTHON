@@ -1,0 +1,7 @@
+O metodo items() é responsável por fazer a seleção de chaves e valores de um dicionario.
+
+	Ex: 
+	    alien = {'posicao':25, 'cor':'verde', 'tamanho':30}
+
+	    for chave, valor in alien.items():
+          print(f'{chave} -> {valor}')

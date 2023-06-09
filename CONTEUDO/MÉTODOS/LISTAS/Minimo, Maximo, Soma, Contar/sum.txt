@@ -1,0 +1,3 @@
+O metódo sum() é responsável por fazer a soma de todos os números de uma determinada lista.
+
+Ex: print(sum(lista_numeros))

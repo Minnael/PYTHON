@@ -1,0 +1,5 @@
+O metódo values() é capaz de criar uma lista apenas com os valores do dicionário.
+
+	Ex: 	
+		alien = {'posicao':25, 'cor':'verde', 'tamanho':30}
+		valores = alien.values()

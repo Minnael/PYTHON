@@ -1,0 +1,9 @@
+A função range() é responsável por facilitar a criação de uma série de números.
+
+Ex:
+	for numero in range(1, 6):
+	   print(numero)
+	
+	
+Ex2: 
+	numeros = list(range(1, 6))

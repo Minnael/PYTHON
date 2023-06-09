@@ -1,0 +1,3 @@
+lower() deixa todas as letras da string minusculas
+
+EX: print(nome.lower())

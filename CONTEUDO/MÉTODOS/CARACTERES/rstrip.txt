@@ -1,0 +1,3 @@
+rstrip() é capaz de remover espaços em branco do direito da string
+
+EX: print(nome.rstrip())

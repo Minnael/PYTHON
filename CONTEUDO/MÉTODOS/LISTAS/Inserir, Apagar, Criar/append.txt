@@ -1,0 +1,3 @@
+append() é responsável por adicionar um novo elemento no final de uma determinada lista
+
+EX: nomes.append('José')

@@ -1,0 +1,3 @@
+strip() remove espaços tanto do lado esquerdo quanto do direito da string
+
+EX: print(nome.strip())

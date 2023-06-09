@@ -1,0 +1,3 @@
+insert(posicao, item) é responsável por colocar um determinado item em uma determinada posição da lista
+
+EX: nomes.insert(0,'José')

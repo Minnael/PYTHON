@@ -1,0 +1,3 @@
+pop(posicao) é responsável por remover um item em uma determinada posição, mas diferente do del o item pode ser armazenado
+
+EX: item_removido = nomes.pop(1)

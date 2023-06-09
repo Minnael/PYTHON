@@ -1,0 +1,3 @@
+O metodo min() é responsável por selecionar o valor minimo de uma determinada lista de numeros.
+
+Ex: print(min(lista_numeros))

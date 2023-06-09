@@ -1,0 +1,5 @@
+Para apagar uma determinada chave em conjunto com o seu valor de um dicionário basta:
+
+	alien = {'posicao':25}
+
+	del alien['posicao']

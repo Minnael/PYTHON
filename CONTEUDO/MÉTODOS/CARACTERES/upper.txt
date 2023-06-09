@@ -1,0 +1,3 @@
+upper() deixa todas as letras da string maisculas
+
+EX: print(nome.upper())
